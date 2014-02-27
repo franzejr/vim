@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/franzejr/programming/workspace-java/moap/MOAPFunction/.settings'
+let g:netrw_dirhist_2='/Users/franzejr/programming/git/promr-web'
+let g:netrw_dirhist_3='/Users/franzejr'
+let g:netrw_dirhist_4='/Users/franzejr/programming/git/promr-web'
+let g:netrw_dirhist_5='/Users/franzejr/programming/git/promr-web/app'
+let g:netrw_dirhist_6='/Users/franzejr/programming/git/promr-web'

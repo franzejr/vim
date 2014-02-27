@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/franzejr/programming/git/redeatacado.com/application'
+let g:netrw_dirhist_2='/Users/franzejr/programming/Sharewizz/webapp'
+let g:netrw_dirhist_3='/Users/franzejr'
